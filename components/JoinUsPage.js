@@ -1,0 +1,1 @@
+export default function JoinUsPage() { return <div>הצטרפות כשותפים</div>; }
